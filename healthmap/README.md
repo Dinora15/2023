@@ -52,3 +52,4 @@ public class MiServlet extends HttpServlet{
    ....
 }
 ```
+<img width="520" alt="health_map" src="https://github.com/master-java-uned/2023/assets/108556884/43ffcebd-b69d-45da-b4f3-e90e3a6a36eb">
